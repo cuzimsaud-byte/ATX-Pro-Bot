@@ -1,0 +1,18 @@
+{
+    "guilds": {
+        "1459888159256084575": {
+            "alert_channel": 1459888160229032000,
+            "admin_role": null
+        }
+    },
+    "streamers": {
+        "twitch": [
+            "shroud"
+        ],
+        "kick": [
+            "S2UD",
+            "ltxmax"
+        ]
+    },
+    "stream_status": {}
+}
